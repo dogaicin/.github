@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/dogaicin-logo.svg" alt="dogaicin.tr logo" width="400" />
+</p>
+
 Merhaba,
 
 Bu satırlar, doğa için duyduğumuz ortak sorumluluğun bir yansıması olarak kaleme alındı. Her yıl binlerce hektar orman yanıyor, binlerce canlı yerinden oluyor ve toprak derin bir susuzlukla kavruluyor.
